@@ -151,7 +151,6 @@ Your browser will open automatically at `http://localhost:8501`.
 - Database storage (SQLite / PostgreSQL) for analysis history
 
 ---
+## 👤 Author
 
-## 📄 License
-
-Built as a learning project for the SMIT AI & Data Science Course, Batch 9, Final Project.
+**Made by Muhammad Abdul Aziz**
