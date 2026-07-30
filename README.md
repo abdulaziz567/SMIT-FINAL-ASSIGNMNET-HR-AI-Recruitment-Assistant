@@ -14,6 +14,14 @@ Upload a Job Description and one or more resumes (PDF), and the app will:
 
 ---
 
+## 🎬 Demo Video
+
+Watch the full walkthrough here: **[AI Recruitment Assistant — Demo](https://youtu.be/jnQAlJi4t7k?si=Z_OsWCvCmUZRIU1C)**
+
+[![Watch the demo](PIC.png)](https://youtu.be/jnQAlJi4t7k?si=Z_OsWCvCmUZRIU1C)
+
+---
+
 ## 🧠 How it works (Architecture)
 
 ```
@@ -116,7 +124,7 @@ Your browser will open automatically at `http://localhost:8501`.
 4. Review each candidate's tab, then check the **Candidate Ranking** table at the bottom.
 5. Click **"Export Ranking as CSV"** to download results.
 
-Sample PDFs (5 resumes + 2 job descriptions) are already provided in the `data/` folder — use these to test the app immediately without needing your own files.
+> 💡 Sample PDFs (5 resumes + 2 job descriptions) are already provided in the `data/` folder — use these to test the app immediately without needing your own files.
 
 ---
 
